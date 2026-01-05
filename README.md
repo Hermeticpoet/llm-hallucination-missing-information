@@ -49,6 +49,12 @@ This repository serves as a concise portfolio example demonstrating:
 
 It is one of several small, focused evaluation samples.
 
+## Related Work
+
+This project is part of a series of small, focused evaluation samples demonstrating different aspects of LLM behaviour. Other evaluations include:
+
+- Directional bias under symmetric prompts
+
 ## License
 
 This project is provided for educational and portfolio purposes.
